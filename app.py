@@ -421,7 +421,7 @@ def login_page():
     if st.button("Login"):
         predefined_credentials = {
         "Narayana": "123",
-        "Ram": "Ram"}
+        "Kattubadi": "Chesterfield123$"}
         if username in predefined_credentials and password == predefined_credentials[username]:
             st.write("Login sucessful")
             prediction()
