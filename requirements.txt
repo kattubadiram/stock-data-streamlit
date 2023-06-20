@@ -1,1 +1,17 @@
+streamlit
+streamlit_authenticator
+pandas
+gspread
+lxml
+pandas
+numpy
+Ipython 
+yfinance
+plotly
+matplotlib
+tensorflow
+prophet
+numpy
+Scikit-learn
+ 
 
